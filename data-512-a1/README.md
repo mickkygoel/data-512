@@ -1,7 +1,8 @@
 
 
 # DATA 512 A1: Data Curation
-## By Mayank Goel
+### By Mayank Goel
+
 
 ## GOAL
 For this assignment, we will combine data about Wikipedia page traffic from two different Wikimedia REST API (Links to an external site.) endpoints into a single dataset, perform some simple data processing steps on the data, and then analyze that data.
@@ -16,7 +17,7 @@ Please read the Wikimedia Foundation REST API terms of use [here].(https://www.m
 
 ## License
 
-The repostory follows MIT License as mention [here].()
+The repostory follows MIT License as mention [here].(https://github.com/mickkygoel/data-512/blob/main/data-512-a1/LICENSE)
 
 ## Repository content
 
@@ -34,8 +35,8 @@ The repostory follows MIT License as mention [here].()
 
 ## Caveats
 
-1. We're interested in organic (user) traffic, as opposed to traffic by web crawlers or spiders. The Pageview API is filtered by agent=user.
-2. There was about 1 year of overlapping traffic data between the two APIs. Both the sources are included
+1. We're interested in organic (user) traffic, as opposed to traffic by web crawlers or spiders. The Pageview API is therefore filtered by agent=user.
+2. There was about 1 year of overlapping traffic data between the two APIs. Both the sources are included for that period
 
 ## Final CSV format
 
