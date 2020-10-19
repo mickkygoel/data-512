@@ -6,7 +6,7 @@
 ## License
 The repostory follows MIT License as mention [here](https://github.com/mickkygoel/data-512/blob/main/data-512-a2/LICENSE).
 
-## GOAL
+## Goal
 In this notebook, I will walk through potential sources of bias in a corpus of human-annotated data, and describe some implications for those biases.
 
 The corpus I am using is called the Wikipedia Talk corpus, and it consists of three datasets. Each dataset contains thousands of online discussion posts made by Wikipedia editors who were discussing how to write and edit Wikipedia articles. Crowdworkers labelled these posts for three kinds of hostile speech: “toxicity”, “aggression”, and “personal attacks”. Many posts in each dataset were labelled by multiple crowdworkers for each type of hostile speech, to improve accuracy.
@@ -61,10 +61,6 @@ To provide a wholesome picture of the corpus data, I would be doing this analysi
 * Once this is done, the function calculates the ratio as defined above.
 * After manipulating the dataset and calculating the measures, we can then plot the histogram for this ratio to see overall disagreement in the dataset.
 * Two differnt plots have been shown by for each ratio so that we can interpret both scenarios.
-
-### Sample output from Analysis 2
-
-![Bias due to disagreement in labelling](https://github.com/mickkygoel/data-512/blob/main/data-512-a2/output/_toxicity_disagreement_bias.png)
 
 ## Repository content
 - data - contains all input data files used in notebook
