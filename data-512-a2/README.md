@@ -41,7 +41,7 @@ To provide a wholesome picture of the corpus data, I would be doing this analysi
 
 ### Sample output from Analysis 1
 
-![Bias in labelling due to gender](/output/gender_labelling_bias.png)
+![Bias in labelling due to gender](https://github.com/mickkygoel/data-512/blob/main/data-512-a2/output/gender_labelling_bias.png)
 
 ## Analysis 2: Identifying bias due to disagreement in labelling
 
@@ -64,7 +64,7 @@ To provide a wholesome picture of the corpus data, I would be doing this analysi
 
 ### Sample output from Analysis 2
 
-![Bias due to disagreement in labelling](/output/_toxicity_disagreement_bias.png)
+![Bias due to disagreement in labelling](https://github.com/mickkygoel/data-512/blob/main/data-512-a2/output/_toxicity_disagreement_bias.png)
 
 ## Repository content
 - data - contains all input data files used in notebook
